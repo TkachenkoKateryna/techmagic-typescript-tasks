@@ -1,0 +1,1 @@
+# techmagic-typescript-tasks
