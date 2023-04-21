@@ -1,0 +1,35 @@
+.posts-section {
+	padding: 5px 20px;
+}
+
+.posts-section_title {
+	text-align: center;
+}
+
+.posts-list {
+	list-style: none;
+}
+
+.post-item {
+	margin: 1rem 0;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+	padding: 1rem;
+}
+
+.post-item h2,
+.post-item p {
+	margin: 0.5rem 0;
+}
+
+.post-item h2 {
+	font-size: 1.5rem;
+	color: #414141;
+}
+
+.error {
+	display: none;
+	width: 100%;
+	background: #e66262;
+	color: white;
+	height: 40px;
+}
